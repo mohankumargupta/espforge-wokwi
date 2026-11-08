@@ -2,8 +2,10 @@
   "name": "chip",
   "author": "Raspberry Pi",
   "pins": [
-    "SDA",
-    "SCL"
+    "MISO",
+    "MOSI",
+    "SCK",
+    "CS"
   ],
   "controls": []
 }
