@@ -1,9 +1,11 @@
 {
-  "name": "i2cexampleasync",
+  "name": "spiexampleasync",
   "author": "Raspberry Pi",
   "pins": [
-    "SDA",
-    "SCL"
+    "MISO",
+    "MOSI",
+    "SCK",
+    "CS"
   ],
   "controls": []
 }
