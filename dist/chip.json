@@ -1,11 +1,9 @@
 {
-  "name": "spiexampleasync",
+  "name": "uartexampleasync",
   "author": "Raspberry Pi",
   "pins": [
-    "MISO",
-    "MOSI",
-    "SCK",
-    "CS"
+    "TX",
+    "RX"
   ],
   "controls": []
 }
