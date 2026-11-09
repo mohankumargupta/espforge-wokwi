@@ -1,9 +1,9 @@
 {
-  "name": "i2cexample",
+  "name": "uartexample",
   "author": "Raspberry Pi",
   "pins": [
-    "SDA",
-    "SCL"
+    "TX",
+    "RX"
   ],
   "controls": []
 }
