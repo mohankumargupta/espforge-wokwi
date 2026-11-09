@@ -1,5 +1,5 @@
 {
-  "name": "i2cscanner",
+  "name": "i2cexampleasync",
   "author": "Raspberry Pi",
   "pins": [
     "SDA",
