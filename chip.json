@@ -1,11 +1,9 @@
 {
-  "name": "spiexample",
+  "name": "i2cexample",
   "author": "Raspberry Pi",
   "pins": [
-    "MISO",
-    "MOSI",
-    "SCK",
-    "CS"
+    "SDA",
+    "SCL"
   ],
   "controls": []
 }
